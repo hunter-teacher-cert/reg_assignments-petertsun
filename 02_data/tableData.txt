@@ -1,0 +1,201 @@
+<div class="table-responsive">
+<table id="table1" class="table table-bordered table-sm fs08">
+<caption class="caption-top h4" hidden="">Table 1. Prevalence of overweight and obesity among children and adolescents aged 2&ndash;19 years, by sex: United States, 1971&ndash;1974 through 2015&ndash;2016</caption>
+<thead class=" ">
+<tr>
+<th rowspan="4" scope="col">Survey period</th>
+<th rowspan="4" scope="col">Sample (<em>n</em>)</th>
+</tr>
+<tr>
+<th colspan="3" scope="col"><span class="d-block text-center">All<sup>1</sup></span></th>
+<th colspan="3" scope="col"><span class="d-block text-center">Boys</span></th>
+<th colspan="3" scope="col"><span class="d-block text-center">Girls<sup>1</sup></span></th>
+</tr>
+<tr>
+<th scope="col">Overweight</th>
+<th scope="col">Obesity</th>
+<th scope="col">Severe obesity</th>
+<th scope="col">Overweight</th>
+<th>Obesity</th>
+<th scope="col">Severe obesity</th>
+<th scope="col">Overweight</th>
+<th colspan="1" scope="col">Obesity</th>
+<th colspan="1" scope="col">Severe obesity</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<th colspan="11" scope="col">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Percent (standard error)</th>
+</tr>
+<tr>
+<th scope="row">1971&ndash;1974</th>
+<td>7,041</td>
+<td>10.2 (0.6)</td>
+<td>5.2 (0.3)</td>
+<td>1.0 (0.1)</td>
+<td>10.3 (0.8)</td>
+<td>5.3 (0.5)</td>
+<td>1.0 (0.2)</td>
+<td>10.1 (0.8)</td>
+<td>5.1 (0.4)</td>
+<td>1.0 (0.2)</td>
+</tr>
+<tr>
+<th scope="row">1976&ndash;1980</th>
+<td>7,351</td>
+<td>9.2 (0.4)</td>
+<td>5.5 (0.4)</td>
+<td>1.3 (0.2)</td>
+<td>9.4 (0.6)</td>
+<td>5.4 (0.4)</td>
+<td>1.2 (0.3)</td>
+<td>9.0 (0.5)</td>
+<td>5.6 (0.6)</td>
+<td>1.3 (0.3)</td>
+</tr>
+<tr>
+<th scope="row">1988&ndash;1994</th>
+<td>10,777</td>
+<td>13.0 (0.7)</td>
+<td>10.0 (0.5)</td>
+<td>2.6 (0.4)</td>
+<td>12.6 (0.9)</td>
+<td>10.2 (0.7)</td>
+<td>2.7 (0.5)</td>
+<td>13.4 (0.9)</td>
+<td>9.8 (0.8)</td>
+<td>2.6 (0.4)</td>
+</tr>
+<tr>
+<th scope="row">1999&ndash;2000</th>
+<td>4,039</td>
+<td>14.2 (0.9)</td>
+<td>13.9 (0.9)</td>
+<td>3.6 (0.5)</td>
+<td>15.0 (1.9)</td>
+<td>14.0 (1.2)</td>
+<td>3.7 (0.7)</td>
+<td>13.4 (0.8)</td>
+<td>13.8 (1.1)</td>
+<td>3.6 (0.6)</td>
+</tr>
+<tr>
+<th scope="row">2001&ndash;2002</th>
+<td>4,261</td>
+<td>14.6 (0.6)</td>
+<td>15.4 (0.9)</td>
+<td>5.2 (0.5)</td>
+<td>14.2 (0.7)</td>
+<td>16.4 (1.0)</td>
+<td>6.1 (0.8)</td>
+<td>15.0 (0.9)</td>
+<td>14.3 (1.3)</td>
+<td>4.2 (0.6)</td>
+</tr>
+<tr>
+<th scope="row">2003&ndash;2004</th>
+<td>3,961</td>
+<td>16.5 (0.8)</td>
+<td>17.1 (1.3)</td>
+<td>5.1 (0.6)</td>
+<td>16.6 (1.0)</td>
+<td>18.2 (1.5)</td>
+<td>5.4 (0.8)</td>
+<td>16.3 (0.9)</td>
+<td>16.0 (1.4)</td>
+<td>4.7 (0.7)</td>
+</tr>
+<tr>
+<th scope="row">2005&ndash;2006</th>
+<td>4,207</td>
+<td>14.6 (0.9)</td>
+<td>15.4 (1.4)</td>
+<td>4.7 (0.6)</td>
+<td>14.7 (1.2)</td>
+<td>15.9 (1.5)</td>
+<td>4.9 (0.8)</td>
+<td>14.6 (1.0)</td>
+<td>14.9 (1.6)</td>
+<td>4.5 (0.7)</td>
+</tr>
+<tr>
+<th scope="row">2007&ndash;2008</th>
+<td>3,249</td>
+<td>14.8 (0.7)</td>
+<td>16.8 (1.3)</td>
+<td>4.9 (0.6)</td>
+<td>14.3 (0.7)</td>
+<td>17.7 (1.4)</td>
+<td>5.5 (0.8)</td>
+<td>15.4 (1.5)</td>
+<td>15.9 (1.5)</td>
+<td>4.3 (0.8)</td>
+</tr>
+<tr>
+<th scope="row">2009&ndash;2010</th>
+<td>3,408</td>
+<td>14.9 (0.8)</td>
+<td>16.9 (0.7)</td>
+<td>5.6 (0.6)</td>
+<td>14.4 (1.0)</td>
+<td>18.6 (1.1)</td>
+<td>6.4 (1.0)</td>
+<td>15.4 (0.9)</td>
+<td>15.0 (0.8)</td>
+<td>4.7 (0.6)</td>
+</tr>
+<tr>
+<th scope="row">2011&ndash;2012</th>
+<td>3,355</td>
+<td>14.9 (0.9)</td>
+<td>16.9 (1.0)</td>
+<td>5.6 (0.7)</td>
+<td>15.4 (1.3)</td>
+<td>16.7 (1.4)</td>
+<td>5.7 (0.9)</td>
+<td>14.5 (1.4)</td>
+<td>17.2 (1.2)</td>
+<td>5.5 (0.8)</td>
+</tr>
+<tr>
+<th scope="row">2013&ndash;2014</th>
+<td>3,523</td>
+<td>16.2 (0.6)</td>
+<td>17.2 (1.1)</td>
+<td>6.0 (0.6)</td>
+<td>16.4 (0.8)</td>
+<td>17.2 (1.3)</td>
+<td>5.6 (0.6)</td>
+<td>16.0 (1.0)</td>
+<td>17.1 (1.6)</td>
+<td>6.3 (0.9)</td>
+</tr>
+<tr>
+<th scope="row">2015&ndash;2016</th>
+<td>3,340</td>
+<td>16.6 (0.8)</td>
+<td>18.5 (1.3)</td>
+<td>5.6 (0.8)</td>
+<td>15.7 (1.0)</td>
+<td>19.1 (1.7)</td>
+<td>6.3 (1.0)</td>
+<td>17.6 (1.2)</td>
+<td>17.8 (1.2)</td>
+<td>4.9 (0.9)</td>
+</tr>
+<tr>
+<th scope="row">2017&ndash;2018</th>
+<td>2,824</td>
+<td>16.1 (0.8)</td>
+<td>19.3 (1.0)</td>
+<td>6.1 (0.7)</td>
+<td>14.7 (1.2)</td>
+<td>20.5 (1.1)</td>
+<td>6.9 (0.9)</td>
+<td>17.6 (1.1)</td>
+<td>18.0 (1.4)</td>
+<td>5.2 (0.7)</td>
+</tr>
+</tbody>
+</table>
+</div>
