@@ -1,7 +1,7 @@
 # Data Assignment
 
 
-Use a computer program or a spreadsheet program to plot
+Wtite a computer program or use a spreadsheet program to plot
 children obesity over the past few decades.
 Research possible causes for the change in children obesity.
 Propose potential solutions to address children obesity.  
