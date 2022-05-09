@@ -1,0 +1,51 @@
+
+
+Aim: How do we integrate physical electronics with programming?
+
+Standards: 4-6.CT.1
+Develop a computational model of a system that
+shows changes in output when there are changes in inputs.
+
+Materials: Tinkercad
+
+Review:
+
+Let us review how we build a simple electrical circuit.
+
+Examples:
+
+Use Blinking arduino example
+
+ - Differentiation: use the basic sample as is.
+
+Use Blinking example, but introduce the declaration of
+global variable: use ledPin instead pin number 8
+
+ - Differentiation: modify the example with global variable
+
+Use Blinking example, but add the use of mini breadboard for laying foundation
+
+ - Differentiation: add to the complexity with a mini breadboard
+
+Additional Examples:
+
+Introduce digital input arduino example: Input serial pullup
+
+ - Differentiation: use the basic circuit as it is.
+
+Use the digital input example with the introduction of global variable
+
+ - Differentiation: modify the code the modify the physical behavior
+
+Use LED and resistor to modify the physical interface.
+
+ - Differentiation: bring in the use of physical components to interact with code
+
+Lab:
+
+Students try out the examples themselves to
+check if they can use arduino to output digital information
+and take a digital input.
+
+
+
