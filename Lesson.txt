@@ -12,6 +12,9 @@ Review:
 
 Let us review how we build a simple electrical circuit.
 
+Pre-lesson Q: What do you know about the word digital?
+ Q: What is the difference between digital and analog?
+
 Examples:
 
 Use Blinking arduino example
@@ -35,11 +38,14 @@ Introduce digital input arduino example: Input serial pullup
 
 Use the digital input example with the introduction of global variable
 
- - Differentiation: modify the code the modify the physical behavior
+ - Differentiation: modify the code to modify the physical behavior
 
 Use LED and resistor to modify the physical interface.
 
  - Differentiation: bring in the use of physical components to interact with code
+
+Post Q: What did you learn about digital?
+Q: How is digital and analog different?
 
 Lab:
 
